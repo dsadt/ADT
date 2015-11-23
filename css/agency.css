@@ -263,7 +263,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #FF6666;
+    color: #fff;
     background-attachment: scroll;
     background-image: url(https://raw.githubusercontent.com/dsadt/ADT/gh-pages/img/Header-bg.jpg);
     background-position: center center;
