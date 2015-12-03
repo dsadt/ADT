@@ -261,8 +261,23 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
+<<<<<<< HEAD
 
 }header{background-image:url(../img/header-bg.jpg);background-repeat:none;background-attachment:scroll;background-position:center center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;text-align:center;color:#fff}
+=======
+header {
+    text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url(../ADT/img/header-bg.jpg);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+>>>>>>> origin/gh-pages
 
 header .intro-text {
     padding-top: 100px;
