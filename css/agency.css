@@ -549,6 +549,18 @@ section h3.section-subheading {
 aside.clients img {
     margin: 50px auto
 }
+section#services {
+    background-image: url(../img/blur.png);
+    background-repeat: none;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    color: #fff
+}
 section#contact {
     background-color: #222;
     background-image: url(../img/map-image.png);
